@@ -14,3 +14,32 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# NewsHub - A News App
+NewsHub is a news application that allows users to fetch and read the latest news from various sources. The app is built using Flutter, a popular open-source UI software development kit created by Google. NewsHub offers a seamless user experience with its responsive user interface, reverse chronological order news listing, and smooth animations. To run the app locally, you need to have Flutter installed on your system.
+
+
+## Getting Started
+### Prerequisites
+Before you can run NewsHub on your local machine, you need to have the following software installed:
+
+Flutter: The Flutter SDK allows you to develop, build, and deploy applications for various platforms, including Android, iOS, and the web. Make sure to have Flutter properly set up on your system.
+
+### Features
+Fetch the latest news from various sources using an API.
+Display news articles in reverse chronological order, sorted by date.
+Responsive user interface supporting mobile phones and desktops.
+Splash screen with a fading animation for a smooth app loading experience.
+Proper loading indicators, retry buttons, and refresh buttons for a seamless user experience.
+Null-Safety Checks and Error Handling to ensure stability and graceful handling of exceptions.
+### How to Use
+Home Screen: Upon launching the app, you will be presented with the home screen showing the latest news articles in reverse chronological order.
+
+Read News Articles: Tap on any news article to read the full story. You will be taken to a detailed view of the article.
+
+Pull-to-Refresh: To update the news articles and get the latest news, simply pull down the list of articles.
+
+Retry on Error: In case of any error fetching news articles, tap the "Retry" button to attempt to reload the data.
+
+### Contributing
+Contributions to NewsHub are welcome! If you have any bug fixes, feature implementations, or improvements, feel free to create a pull request. Before contributing, please read the Contributing Guidelines for more details.
