@@ -43,3 +43,14 @@ Retry on Error: In case of any error fetching news articles, tap the "Retry" but
 
 ### Contributing
 Contributions to NewsHub are welcome! If you have any bug fixes, feature implementations, or improvements, feel free to create a pull request. Before contributing, please read the Contributing Guidelines for more details.
+
+
+![WhatsApp Image 2023-07-20 at 23 38 56](https://github.com/ajinendra05/cometlabs/assets/92153036/9f683d35-d44f-4fe5-9c3a-464eb76dd073)
+
+
+![w3](https://github.com/ajinendra05/cometlabs/assets/92153036/337dcb13-e91c-4451-a909-c87926aef539)
+
+![w2](https://github.com/ajinendra05/cometlabs/assets/92153036/cd66e89d-3f6e-4130-9e93-5727d2d53434)
+
+
+![w4](https://github.com/ajinendra05/cometlabs/assets/92153036/a829a989-30c9-491c-928a-e7f7de676e35)
